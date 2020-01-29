@@ -1,4 +1,4 @@
->key_for_min_value
+> key_for_min_value
 end
 
 ikea = {:chair => 25, :table => 85, :mattress => 450}
